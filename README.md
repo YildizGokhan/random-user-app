@@ -1,5 +1,8 @@
 React, HTML , CSS , React-Bootstrap, SweetAlert
 
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/6a358f1c-4dbc-4360-97ec-8894b7c497e5)
+
+
 Başlangıç için bir Loading Gif
 ![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/12870e7f-31a3-4098-a2f8-2f995861965a)
 
