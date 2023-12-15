@@ -1,17 +1,24 @@
 React, HTML , CSS , React-Bootstrap, SweetAlert
 
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/6a358f1c-4dbc-4360-97ec-8894b7c497e5)
+
+
 Başlangıç için bir Loading Gif
-![image](https://github.com/YildizGokhan/random-user-aoo/assets/144238207/2e6f1cb9-df42-40d1-918e-77c99bcf36ba)
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/12870e7f-31a3-4098-a2f8-2f995861965a)
+
 
 Sonrasında loading olur olmaz useEffect ile ilk verinin ekrana gelmesi.
-![image](https://github.com/YildizGokhan/random-user-aoo/assets/144238207/e7449992-fb27-4c47-9655-a3cbb805400a)
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/adab8691-ef1b-42b9-8a1d-2af9d9a96ecc)
 
 NewUser butonu ile yeni kullanıcının gelmesi ve ADD USER butonu ile o kişinin listeye eklenmesi,
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/1db9de7e-b1af-4e07-9189-33e9179e0cba)
 
-![image](https://github.com/YildizGokhan/random-user-aoo/assets/144238207/903753b7-4767-4be7-91be-fd1de7531f80)
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/1c227c35-17cc-4b2d-96f5-ed9218ca7433)
+
 
 Listede var olan kullanıcı tekrar eklemek istersek SweelAlert eklentisi
-![image](https://github.com/YildizGokhan/random-user-aoo/assets/144238207/0c5abfcb-ea9a-4f73-ae19-4cedb2f4621f)
+![image](https://github.com/YildizGokhan/random-user-app/assets/144238207/cda27275-0d43-442f-b976-e73d3a87c0a8)
+
 Ve diğer özellikler için onMouseEnter event aktifliği .
 
 
