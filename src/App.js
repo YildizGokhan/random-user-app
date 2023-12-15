@@ -115,9 +115,9 @@ function App() {
                     <img onMouseEnter={handleName} src={gender === "female" ? womanSvg : manSvg} alt="user" id="iconImg" />
                   </button>
                   <button className="icon" data-label="email">
-                    <img src={mailSvg} alt="mail" id="iconImg" />
+                    <img onMouseEnter={handleEmail} src={mailSvg} alt="mail" id="iconImg" />
                   </button>
-                  <button onMouseEnter={handleEmail} className="icon" data-label="age">
+                  <button  className="icon" data-label="age">
                     <img onMouseEnter={handleAge} src={gender === "female" ? womanAgeSvg : manAgeSvg} alt="age" id="iconImg" />
                   </button>
                   <button className="icon" data-label="street">
